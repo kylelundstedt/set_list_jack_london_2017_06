@@ -6,6 +6,7 @@ rmd_files: [
 	"lead_sheets/Santeria.Rmd",
 	"lead_sheets/Miss-You.Rmd",
 	"lead_sheets/The-Middle.Rmd",
+	 "lead_sheets/1979.Rmd",
 	"lead_sheets/group_2.Rmd",
 	"lead_sheets/Locked-Out-Of-Heaven.Rmd",
 	"lead_sheets/I-Want-You-To.Rmd",
@@ -39,9 +40,6 @@ rmd_files: [
 	"lead_sheets/group_7.Rmd",
 	"lead_sheets/Purple-Rain.Rmd",
 	"lead_sheets/Bad-Romance.Rmd",
-	"lead_sheets/You-Shook-Me-All-Night-Long.Rmd",
-	"lead_sheets/group_8.Rmd",
-	"lead_sheets/The-Big-Bang.Rmd",
-  "lead_sheets/1979.Rmd"
+	"lead_sheets/You-Shook-Me-All-Night-Long.Rmd"
 ]
 output_dir: docs
