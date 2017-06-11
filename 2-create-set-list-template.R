@@ -33,7 +33,7 @@ bookfilename <- str_c('book_filename: "', gig_name, '"\n', 'rmd_files: [')
 write(bookfilename, file = "_bookdown.yml")
 songs <- paste0('\t"lead_sheets/',
                  set_list$Title_dash,
-                 '.Rmd",')
+                 '.md",')
 write(songs, file = "_bookdown.yml", append = TRUE)
 outputs <- paste0('\n]\n',
                  'output_dir: docs')
